@@ -3,6 +3,8 @@ defaultPlus
 
 Slight modification of the default vim colorscheme for better readability (especially when diffing).
 
+![2 file diff screenshot](diff_01a.png)
+
 Installation
 ============
 
