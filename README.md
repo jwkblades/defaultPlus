@@ -3,7 +3,11 @@ defaultPlus
 
 Slight modification of the default vim colorscheme for better readability (especially when diffing).
 
-![2 file diff screenshot](diff_01a.png)
+Here's what the new diffview looks like:
+![2 file diff screenshot using defaultPlus.vim colorscheme](diff_01a.png)
+
+In comparison to this:
+![2 file diff screenshot using default colorscheme](diff_01b.png)
 
 Installation
 ============
