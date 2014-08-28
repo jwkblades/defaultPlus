@@ -1,3 +1,4 @@
+se background=light
 hi clear
 
 let colors_name="defaultPlus"
