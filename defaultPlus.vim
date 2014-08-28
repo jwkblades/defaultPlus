@@ -2,7 +2,7 @@ hi clear
 
 let colors_name="defaultPlus"
 
-hi Comment ctermfg=246
+hi Comment ctermfg=246 guifg=#949494
 hi DiffText ctermbg=219 guibg=#ff87df
 hi Fold term=standout ctermfg=254 ctermbg=250 guifg=#e4e4e4 guibg=#bcbcbc
 hi Folded NONE
